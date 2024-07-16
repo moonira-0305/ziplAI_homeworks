@@ -1,3 +1,4 @@
+#case18
 n=int(input('adad?'))
 a1=n//100
 a2=(n%100)//10

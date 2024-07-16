@@ -1,3 +1,4 @@
+#case5
 n=int(input('raqami tartibii amalro dohil kuned'))
 a=float(input('a='))
 b=float(input('b='))
